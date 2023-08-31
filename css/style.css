@@ -154,7 +154,7 @@ display: inline-block;
 
    #about .content .img img{
 	
-	   width: 406px;
+	   width: 400px;
 	   height: 400px;
 	 
 	   justify-content: center;
@@ -274,7 +274,7 @@ h1.h-primary.center {
 }
 
 #trainer .item{
-    width: 400px;
+    width: 388px;
     height: 300px;
     margin: 10px;
     float: left
@@ -344,7 +344,7 @@ h1.h-primary.center {
 #price .item{
     float: left;
     height: 628px;
-    width: 400px;
+    width: 393px;
     border: 2px solid rgb(255, 252, 252);
     margin: 10px;
 }
@@ -370,7 +370,7 @@ h1.h-primary.center {
 #price .img img{
 
     height: 300px;
-    width: 400px;
+    width: 391px;
 }
 
 #price h2{
